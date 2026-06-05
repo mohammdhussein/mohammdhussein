@@ -101,15 +101,14 @@ A Java-based library management system project focused on object-oriented progra
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammdhussein&show_icons=true&theme=default" alt="Mohammd Hussein GitHub Stats" />
-</p>
+I use GitHub to document my learning progress, organize backend projects, and practice professional development workflows.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammdhussein&layout=compact&theme=default" alt="Top Languages" />
-</p>
+- Main backend project: [XpertForma Platform](https://github.com/mohammdhussein/xpertforma_platform)
+- Public repositories: [github.com/mohammdhussein?tab=repositories](https://github.com/mohammdhussein?tab=repositories)
+- Pull request workflow: [xpertforma_platform Pull Requests](https://github.com/mohammdhussein/xpertforma_platform/pulls?q=is%3Apr)
+- Contribution activity: [GitHub Contributions](https://github.com/mohammdhussein)
 
 ---
 
