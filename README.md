@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mohammdhussein">GitHub</a>
+  <a href="https://github.com/mohammdhussein">GitHub</a> •
+  <a href="https://www.linkedin.com/in/mohammd-hussein-39b951172">LinkedIn</a> •
+  <a href="mailto:mohammd.hussein04@gmail.com">Email</a>
 </p>
 
 ---
@@ -114,6 +116,8 @@ A Java-based library management system project focused on object-oriented progra
 ## 📫 Contact
 
 - GitHub: [github.com/mohammdhussein](https://github.com/mohammdhussein)
+- LinkedIn: [linkedin.com/in/mohammd-hussein-39b951172](https://www.linkedin.com/in/mohammd-hussein-39b951172)
+- Email: [mohammd.hussein04@gmail.com](mailto:mohammd.hussein04@gmail.com)
 - Open to internship and junior backend development opportunities
 
 ---
