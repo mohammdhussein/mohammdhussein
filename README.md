@@ -52,19 +52,19 @@
 * 📚 **Library Management System** — Java-based OOP project  
   Repository: [LMS](https://github.com/mohammdhussein/LMS)
 
-<b>My GitHub Stats</b>
+<h3 align="left">My GitHub Stats:</h3>
 
-<a href="https://github.com/mohammdhussein">
-  <img src="https://github-readme-stats-6sym.vercel.app/api?username=mohammdhussein&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mohammd Hussein's GitHub stats" />
-</a>
+<p align="left">
+  <a href="https://github.com/mohammdhussein">
+    <img height="180em" src="https://github-readme-stats-6sym.vercel.app/api?username=mohammdhussein&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Mohammd Hussein GitHub stats" />
+  </a>
+</p>
 
-<a href="https://github.com/mohammdhussein">
-  <img src="https://streak-stats.demolab.com/?user=mohammdhussein&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Mohammd Hussein GitHub streak" />
-</a>
-
-<a href="https://github.com/mohammdhussein" align="left">
-  <img src="https://github-readme-stats-6sym.vercel.app/api/top-langs/?username=mohammdhussein&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<p align="left">
+  <a href="https://github.com/mohammdhussein">
+    <img height="180em" src="https://github-readme-stats-6sym.vercel.app/api/top-langs/?username=mohammdhussein&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
